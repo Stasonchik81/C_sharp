@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Divide
 Console.Write("Введите делимое: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите делитель: ");
